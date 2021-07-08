@@ -8,5 +8,5 @@ const sobrenome = "Barkfeld";
 console.log(nome, sobrenome); 
 console.log(`Meu nome é ${nome} ${sobrenome}`);
 
-nome = nome + sobrenome;
-console.log(nome);
+const nomeCompleto = nome + sobrenome;
+console.log(nomeCompleto);
